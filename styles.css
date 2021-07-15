@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(to right, pink, purple, pink) !important;
+}
+
+input{
+    width: 60% !important;
+    height: 5em !important;
+    border: none !important;
+    border-radius: 10px !important;
+
+}
+
+.carousel-item img{
+    border-radius: 50% !important;
+    height: 500px!important;
+    width: 500px!important;
+}
+
+button{
+    border: none !important;
+    outline: none !important;
+}
+
+button:hover{
+    border: none !important;
+    outline: none !important;
+}
